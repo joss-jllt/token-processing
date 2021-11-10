@@ -1,0 +1,22 @@
+{
+  "name": "token-processing",
+  "version": "1.0.0",
+  "description": "///",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://joss-jllt@github.com/joss-jllt/token-processing.git"
+  },
+  "author": "Josselin Cuette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joss-jllt/token-processing/issues"
+  },
+  "homepage": "https://github.com/joss-jllt/token-processing#readme",
+  "dependencies": {
+    "style-dictionary": "^2.10.2"
+  }
+}
