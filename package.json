@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/joss-jllt/token-processing#readme",
   "dependencies": {
-    "style-dictionary": "^2.10.2"
+    "style-dictionary": "^2.10.2",
+    "node-sass": "^5.0.0",
   }
 }
