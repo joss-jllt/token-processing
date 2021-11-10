@@ -6,7 +6,7 @@
   "scripts": {
     "build": "style-dictionary build",
     "build-css": "node-sass web/scss/main.scss web/css/main.css",
-    "watch-css":"node-sass -w web/scss/main.scss web/css/main.css" 
+    "watch-css": "node-sass -w web/scss/main.scss web/css/main.css"
   },
   "repository": {
     "type": "git",
