@@ -4,7 +4,9 @@
   "description": "///",
   "main": "index.js",
   "scripts": {
-    "build": "style-dictionary build"
+    "build": "style-dictionary build",
+    "build-css": "node-sass web/scss/main.scss web/css/main.css",
+    "watch-css":"node-sass -w web/scss/main.scss web/css/main.css" 
   },
   "repository": {
     "type": "git",
@@ -17,7 +19,8 @@
   },
   "homepage": "https://github.com/joss-jllt/token-processing#readme",
   "dependencies": {
-    "style-dictionary": "^2.10.2",
-    "node-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "nodemon": "^2.0.15",
+    "style-dictionary": "^2.10.2"
   }
 }
