@@ -2,9 +2,9 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 10 Nov 2021 22:33:12 GMT
+  Generated on Wed, 10 Nov 2021 22:35:58 GMT
 -->
 <resources>
-  <color name="color_tokentest_yellow">#fffcff00</color>
+  <color name="color_tokentest_testcolor">#ff00ff38</color>
   
 </resources>
