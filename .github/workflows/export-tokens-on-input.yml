@@ -18,6 +18,8 @@ jobs:
       run: npm install
     - name: Build Style Dictionary
       run: npm run build
+    - name: Update SCSS
+      run: npm run build-css
     - name: Commit Generated Platform Deliverables
       id: "auto-commit-action"
       uses: stefanzweifel/git-auto-commit-action@v4
