@@ -3,14 +3,14 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Thu, 11 Nov 2021 03:46:41 GMT
+// Generated on Thu, 11 Nov 2021 03:49:09 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let colorTokentestTestcolor = UIColor(red: 0.894, green: 0.118, blue: 0.180, alpha:1)
+    public static let colorTokentestTestcolor = UIColor(red: 0.310, green: 0.039, blue: 0.063, alpha:1)
     public static let effectBorderTopAndBottom0Color = rgba(233, 234, 235, 1)
     public static let effectBorderTopAndBottom0OffsetX = 0
     public static let effectBorderTopAndBottom0OffsetY = -1
