@@ -3,11 +3,11 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Wed, 10 Nov 2021 23:01:35 GMT
+// Generated on Thu, 11 Nov 2021 03:45:31 GMT
 //
 
 import UIKit
 
 public enum StyleDictionaryColor {
-    public static let tokentestTestcolor = UIColor(red: 0.000, green: 0.824, blue: 1.000, alpha:1)
+    public static let tokentestTestcolor = UIColor(red: 0.020, green: 0.000, blue: 1.000, alpha:1)
 }
