@@ -134,7 +134,7 @@
       "category": "font",
       "exportKey": "font",
       "fontSize": {
-        "value": 16,
+        "value": 14,
         "type": "number",
         "unit": "pixel"
       },
