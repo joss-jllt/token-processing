@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 12 Nov 2021 14:07:15 GMT
+// Generated on Fri, 12 Nov 2021 14:24:45 GMT
 
 
 import UIKit
@@ -26,7 +26,7 @@ public class StyleDictionary {
     public static let colorGreenSalemC04 = UIColor(red: 0.043, green: 0.459, blue: 0.251, alpha: 1)
     public static let colorGreenSalemC05 = UIColor(red: 0.525, green: 0.957, blue: 0.741, alpha: 1)
     public static let colorGreenSalemC06 = UIColor(red: 0.035, green: 0.373, blue: 0.204, alpha: 1)
-    public static let colorGreenSalemC07 = UIColor(red: 0.082, green: 0.906, blue: 0.494, alpha: 1)
+    public static let colorGreenSalemC07 = UIColor(red: 0.082, green: 0.482, blue: 0.906, alpha: 1)
     public static let colorGreenSalemC08 = UIColor(red: 0.027, green: 0.282, blue: 0.153, alpha: 1)
     public static let colorGreenSalemC09 = UIColor(red: 0.067, green: 0.757, blue: 0.412, alpha: 1)
     public static let colorGreenSalemC10 = UIColor(red: 0.020, green: 0.204, blue: 0.110, alpha: 1)
