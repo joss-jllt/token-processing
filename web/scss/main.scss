@@ -1,9 +1,11 @@
 @import "../../output/scss/variables";
 
 body{
-  background-color:$color-green-salem-c-07;
+  background-color:$color-green-salem-c-05;
 
 }
-*{
+h1{
   font-size:$font-body-font-size;
+  font-weight:$font-body-font-weight;
+  font-family: $font-body-font-family;
 }
