@@ -2,12 +2,12 @@
 //
 // StyleDictionaryColor.h
 //
-
 // Do not edit directly
-// Generated on Fri, 12 Nov 2021 15:43:53 GMT
-
+// Generated on Fri, 12 Nov 2021 15:46:20 GMT
+//
 
 #import <UIKit/UIKit.h>
+
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
 ColorBlueRoyal10,

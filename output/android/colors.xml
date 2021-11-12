@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Fri, 12 Nov 2021 15:43:53 GMT
+  Generated on Fri, 12 Nov 2021 15:46:20 GMT
 -->
 <resources>
   <color name="color_blue_royal_10">#ff0f266c</color>
@@ -15,15 +15,15 @@
   <color name="color_blue_royal_07">#ff2b59e2</color>
   <color name="color_blue_royal_08">#ff1b45c3</color>
   <color name="color_blue_royal_09">#ff143494</color>
-  <color name="color_green_salem_c01">#ffe7fdf2</color>
-  <color name="color_green_salem_c02">#ffc7fae1</color>
-  <color name="color_green_salem_c03">#ff86f4bd</color>
-  <color name="color_green_salem_c04">#ff15e77e</color>
-  <color name="color_green_salem_c05">#ff11c169</color>
-  <color name="color_green_salem_c06">#ff0e9c55</color>
-  <color name="color_green_salem_c07">#ff0b7540</color>
-  <color name="color_green_salem_c08">#ff095f34</color>
-  <color name="color_green_salem_c09">#ff074827</color>
-  <color name="color_green_salem_c10">#ff05341c</color>
+  <color name="color_green_salem_c_01">#ffe7fdf2</color>
+  <color name="color_green_salem_c_02">#ffc7fae1</color>
+  <color name="color_green_salem_c_03">#ff86f4bd</color>
+  <color name="color_green_salem_c_04">#ff15e77e</color>
+  <color name="color_green_salem_c_05">#ff11c169</color>
+  <color name="color_green_salem_c_06">#ff0e9c55</color>
+  <color name="color_green_salem_c_07">#ff0b7540</color>
+  <color name="color_green_salem_c_08">#ff095f34</color>
+  <color name="color_green_salem_c_09">#ff074827</color>
+  <color name="color_green_salem_c_10">#ff05341c</color>
   
 </resources>
