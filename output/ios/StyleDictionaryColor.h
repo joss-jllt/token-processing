@@ -2,12 +2,17 @@
 //
 // StyleDictionaryColor.h
 //
-
 // Do not edit directly
+<<<<<<< HEAD
 // Generated on Fri, 12 Nov 2021 14:24:45 GMT
 
+=======
+// Generated on Fri, 12 Nov 2021 14:25:39 GMT
+//
+>>>>>>> fc18977840c52b071617a1890ac453bbe9bdeba0
 
 #import <UIKit/UIKit.h>
+
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
 ColorGreenSalemC10,
