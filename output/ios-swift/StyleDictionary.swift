@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Fri, 12 Nov 2021 16:54:24 GMT
+// Generated on Fri, 12 Nov 2021 16:56:31 GMT
 //
 
 
@@ -31,7 +31,7 @@ public class StyleDictionary {
     public static let colorGreenSalemC09 = UIColor(red: 0.027, green: 0.282, blue: 0.153, alpha:1)
     public static let colorGreenSalemC10 = UIColor(red: 0.020, green: 0.204, blue: 0.110, alpha:1)
     public static let fontBodyFontFamily = "Inter"
-    public static let fontBodyFontSize = "16"
+    public static let fontBodyFontSize = "14"
     public static let fontBodyFontStretch = "normal"
     public static let fontBodyFontStyle = "normal"
     public static let fontBodyFontStyleOld = "Medium"
