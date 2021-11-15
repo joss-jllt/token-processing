@@ -1,5 +1,5 @@
 # .github/workflows/export-tokens-on-input.yml
-name: Generate Tokens On Input from Figma
+name: Typography tokens
 
 # this triggers the action when a post to "https://api.github.com/repos/:username/:repo/dispatches" comes in
 on:
