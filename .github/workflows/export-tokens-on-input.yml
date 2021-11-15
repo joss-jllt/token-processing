@@ -33,7 +33,6 @@ jobs:
         
     # we now initialize node to run amazon style-dictionary (SD) to compile the tokens
     
-    - uses: actions/checkout@v2
     - name: Use Node.js 14.x
       uses: actions/setup-node@v2
       with:
