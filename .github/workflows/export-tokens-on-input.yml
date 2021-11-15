@@ -1,5 +1,5 @@
 # .github/workflows/export-tokens-on-input.yml
-name: Generate Tokens On Input
+name: Generate Tokens On Input from Figma
 
 on:
   push:
