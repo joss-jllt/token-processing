@@ -17,7 +17,7 @@ jobs:
     - uses: actions/checkout@master
     # if the folder named "input" does not exist, create it
     - name: mkdir "input" directory
-      run: mkdir -p input
+      run: mkdir -p input && cd input && touch .gitkeep && git add . && cd ../
     # this creates a json file from the stringified json from the request body
     - name: create json from request body
       id: create-json
@@ -29,7 +29,7 @@ jobs:
         #json: ${{ github.event.client_payload.tokens }}
         json: '{"name":"Test", "password":"Test"}'
         # it uses the directory named "input" to store this json file (change this if you changed it above to use a different folder)
-        #dir: "input"
+        dir: "input/"
         
     # we now initialize node to run amazon style-dictionary (SD) to compile the tokens
     
