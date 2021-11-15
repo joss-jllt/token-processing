@@ -30,7 +30,8 @@ jobs:
         # it uses the directory named "input" to store this json file (change this if you changed it above to use a different folder)
         dir: 'input/'
         
-    # we now initialize node to run amazon style dictionary to compile the tokens
+    # we now initialize node to run amazon style-dictionary (SD) to compile the tokens
+    
     - uses: actions/checkout@v2
     - name: Use Node.js 14.x
       uses: actions/setup-node@v2
@@ -40,10 +41,15 @@ jobs:
 
     - name: Install Node Dependencies
       run: npm install
+    # Running SD with newly created tokens
     - name: Build Style Dictionary
       run: npm run build
-    - name: Update SCSS
-      run: npm run build-css
+
+    # We may want to test if the SCSS tokens are structured correctly using a 
+    # little test app. For the moment, the test is disabled.
+    #- name: Update SCSS
+      #run: npm run build-css
+
     - name: Commit Generated Platform Deliverables
       id: "auto-commit-action"
       uses: stefanzweifel/git-auto-commit-action@v4
