@@ -26,8 +26,7 @@ jobs:
         # it uses the name from your settings that was send as then tokenFileName parameter
         name: "design-tokens.json"
         # it uses the json string that was send as the tokens parameter
-        #json: ${{ github.event.client_payload.tokens }}
-        json: '{"name":"Test", "password":"Test"}'
+        json: ${{ github.event.client_payload.tokens }}
         # it uses the directory named "input" to store this json file (change this if you changed it above to use a different folder)
         dir: "input/"
         
