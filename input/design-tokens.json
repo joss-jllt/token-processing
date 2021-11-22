@@ -194,6 +194,10 @@
           }
         }
       }
+    },
+    "Test-color": {
+      "value": "#e5a4a4",
+      "type": "color"
     }
   }
 }
