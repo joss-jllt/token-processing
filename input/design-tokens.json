@@ -180,7 +180,7 @@
     },
     "Brand": {
       "primary": {
-        "value": "#11c169",
+        "value": "{Green.Salem.CO5}",
         "type": "color",
         "description": "Testing figma upload to Github"
       }
@@ -189,7 +189,7 @@
       "Button": {
         "Primary": {
           "Idle": {
-            "value": "#11c169",
+            "value": "{Brand.primary}",
             "type": "color"
           }
         }
