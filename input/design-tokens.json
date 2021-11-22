@@ -181,7 +181,8 @@
     "Brand": {
       "primary": {
         "value": "#0f266c",
-        "type": "color"
+        "type": "color",
+        "description": "Testing figma upload to Github"
       }
     }
   }
