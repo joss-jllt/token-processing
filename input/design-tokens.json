@@ -1,0 +1,188 @@
+{
+  "global": {
+    "Blue": {
+      "Royal": {
+        "10": {
+          "value": "#0f266c",
+          "type": "color"
+        },
+        "01": {
+          "value": "#f5f7fe",
+          "type": "color"
+        },
+        "02": {
+          "value": "#eaeffc",
+          "type": "color"
+        },
+        "03": {
+          "value": "#d6dff9",
+          "type": "color"
+        },
+        "04": {
+          "value": "#bac9f6",
+          "type": "color"
+        },
+        "05": {
+          "value": "#8da6ef",
+          "type": "color"
+        },
+        "06": {
+          "value": "#6082e9",
+          "type": "color"
+        },
+        "07": {
+          "value": "#2b59e2",
+          "type": "color"
+        },
+        "08": {
+          "value": "#1b45c3",
+          "type": "color"
+        },
+        "09": {
+          "value": "#143494",
+          "type": "color"
+        }
+      }
+    },
+    "Green": {
+      "Salem": {
+        "C01": {
+          "value": "#e7fdf2",
+          "type": "color"
+        },
+        "C02": {
+          "value": "#c7fae1",
+          "type": "color"
+        },
+        "C03": {
+          "value": "#86f4bd",
+          "type": "color"
+        },
+        "C04": {
+          "value": "#15e77e",
+          "type": "color"
+        },
+        "C05": {
+          "value": "#11c169",
+          "type": "color"
+        },
+        "C06": {
+          "value": "#0e9c55",
+          "type": "color"
+        },
+        "C07": {
+          "value": "#0b7540",
+          "type": "color"
+        },
+        "C08": {
+          "value": "#095f34",
+          "type": "color"
+        },
+        "C09": {
+          "value": "#074827",
+          "type": "color"
+        },
+        "C10": {
+          "value": "#05341c",
+          "type": "color"
+        }
+      }
+    },
+    "fontFamilies": {
+      "inter": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "0": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "1": {
+        "value": "32",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "inter-0": {
+        "value": "Medium",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "22",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "-0.5%",
+        "type": "letterSpacing"
+      },
+      "1": {
+        "value": "0",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      },
+      "1": {
+        "value": "8",
+        "type": "paragraphSpacing"
+      }
+    },
+    "Body": {
+      "value": {
+        "fontFamily": "$fontFamilies.inter",
+        "fontWeight": "$fontWeights.inter-0",
+        "lineHeight": "$lineHeights.0",
+        "fontSize": "$fontSize.0",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.1",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "Subhead 1": {
+      "value": {
+        "fontFamily": "$fontFamilies.inter",
+        "fontWeight": "$fontWeights.inter-0",
+        "lineHeight": "$lineHeights.1",
+        "fontSize": "$fontSize.1",
+        "letterSpacing": "$letterSpacing.1",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "Brand": {
+      "primary": {
+        "value": "#0f266c",
+        "type": "color"
+      }
+    }
+  }
+}
