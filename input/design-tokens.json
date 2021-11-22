@@ -180,10 +180,14 @@
     },
     "Brand": {
       "primary": {
-        "value": "#0f266c",
+        "value": "{Green.Salem.C05}",
         "type": "color",
         "description": "Testing figma upload to Github"
       }
+    },
+    "Test-color": {
+      "value": "#e5a4a4",
+      "type": "color"
     }
   }
 }
