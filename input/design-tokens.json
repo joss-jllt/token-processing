@@ -180,7 +180,7 @@
     },
     "Brand": {
       "primary": {
-        "value": "{Green.Salem.CO5}",
+        "value": "{Green.Salem.C05}",
         "type": "color",
         "description": "Testing figma upload to Github"
       }
