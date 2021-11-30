@@ -3,13 +3,15 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Fri, 19 Nov 2021 15:16:51 GMT
+// Generated on Tue, 30 Nov 2021 19:45:54 GMT
 //
 
 #import <UIKit/UIKit.h>
 
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
+ColorTestColor,
+ColorTestTokenRed,
 ColorBlueRoyal10,
 ColorBlueRoyal01,
 ColorBlueRoyal02,
@@ -29,7 +31,9 @@ ColorGreenSalemC06,
 ColorGreenSalemC07,
 ColorGreenSalemC08,
 ColorGreenSalemC09,
-ColorGreenSalemC10
+ColorGreenSalemC10,
+ColorBackgroundButtonPrimaryIdle,
+ColorBrandPrimary
 };
 
 @interface StyleDictionaryColor : NSObject

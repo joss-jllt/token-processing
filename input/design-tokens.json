@@ -1,207 +1,281 @@
 {
-  "global": {
-    "Blue": {
-      "Royal": {
+  "color": {
+    "test-color": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(229, 164, 164, 1)",
+      "type": "color"
+    },
+    "test-token-red": {
+      "category": "color",
+      "exportKey": "color",
+      "value": "rgba(96, 0, 0, 1)",
+      "type": "color"
+    },
+    "blue": {
+      "royal": {
         "10": {
-          "value": "#0f266c",
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(15, 38, 108, 1)",
           "type": "color"
         },
         "01": {
-          "value": "#f5f7fe",
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(245, 247, 254, 1)",
           "type": "color"
         },
         "02": {
-          "value": "#eaeffc",
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(234, 239, 252, 1)",
           "type": "color"
         },
         "03": {
-          "value": "#d6dff9",
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(214, 223, 249, 1)",
           "type": "color"
         },
         "04": {
-          "value": "#bac9f6",
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(186, 201, 246, 1)",
           "type": "color"
         },
         "05": {
-          "value": "#8da6ef",
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(141, 166, 239, 1)",
           "type": "color"
         },
         "06": {
-          "value": "#6082e9",
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(96, 130, 233, 1)",
           "type": "color"
         },
         "07": {
-          "value": "#2b59e2",
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(43, 89, 226, 1)",
           "type": "color"
         },
         "08": {
-          "value": "#1b45c3",
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(27, 69, 195, 1)",
           "type": "color"
         },
         "09": {
-          "value": "#143494",
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(20, 52, 148, 1)",
           "type": "color"
         }
       }
     },
-    "Green": {
-      "Salem": {
-        "C01": {
-          "value": "#e7fdf2",
+    "green": {
+      "salem": {
+        "c01": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(231, 253, 242, 1)",
           "type": "color"
         },
-        "C02": {
-          "value": "#c7fae1",
+        "c02": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(199, 250, 225, 1)",
           "type": "color"
         },
-        "C03": {
-          "value": "#86f4bd",
+        "c03": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(134, 244, 189, 1)",
           "type": "color"
         },
-        "C04": {
-          "value": "#15e77e",
+        "c04": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(21, 231, 126, 1)",
           "type": "color"
         },
-        "C05": {
-          "value": "#11c169",
+        "c05": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(17, 193, 105, 1)",
           "type": "color"
         },
-        "C06": {
-          "value": "#0e9c55",
+        "c06": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(14, 156, 85, 1)",
           "type": "color"
         },
-        "C07": {
-          "value": "#0b7540",
+        "c07": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(11, 117, 64, 1)",
           "type": "color"
         },
-        "C08": {
-          "value": "#095f34",
+        "c08": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(9, 95, 52, 1)",
           "type": "color"
         },
-        "C09": {
-          "value": "#074827",
+        "c09": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(7, 72, 39, 1)",
           "type": "color"
         },
-        "C10": {
-          "value": "#05341c",
+        "c10": {
+          "category": "color",
+          "exportKey": "color",
+          "value": "rgba(5, 52, 28, 1)",
           "type": "color"
         }
       }
     },
-    "fontFamilies": {
-      "inter": {
-        "value": "Inter",
-        "type": "fontFamilies"
-      }
-    },
-    "lineHeights": {
-      "0": {
-        "value": "24",
-        "type": "lineHeights"
-      },
-      "1": {
-        "value": "32",
-        "type": "lineHeights"
-      }
-    },
-    "fontWeights": {
-      "inter-0": {
-        "value": "Medium",
-        "type": "fontWeights"
-      }
-    },
-    "fontSize": {
-      "0": {
-        "value": "16",
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": "22",
-        "type": "fontSizes"
-      }
-    },
-    "letterSpacing": {
-      "0": {
-        "value": "-0.5%",
-        "type": "letterSpacing"
-      },
-      "1": {
-        "value": "0",
-        "type": "letterSpacing"
-      }
-    },
-    "paragraphSpacing": {
-      "0": {
-        "value": "0",
-        "type": "paragraphSpacing"
-      },
-      "1": {
-        "value": "8",
-        "type": "paragraphSpacing"
-      }
-    },
-    "Body": {
-      "value": {
-        "fontFamily": "$fontFamilies.inter",
-        "fontWeight": "$fontWeights.inter-0",
-        "lineHeight": "$lineHeights.0",
-        "fontSize": "$fontSize.0",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.1",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
-      },
-      "type": "typography"
-    },
-    "Subhead 1": {
-      "value": {
-        "fontFamily": "$fontFamilies.inter",
-        "fontWeight": "$fontWeights.inter-0",
-        "lineHeight": "$lineHeights.1",
-        "fontSize": "$fontSize.1",
-        "letterSpacing": "$letterSpacing.1",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
-      },
-      "type": "typography"
-    },
-    "textCase": {
-      "none": {
-        "value": "none",
-        "type": "textCase"
-      }
-    },
-    "textDecoration": {
-      "none": {
-        "value": "none",
-        "type": "textDecoration"
-      }
-    },
-    "Brand": {
-      "primary": {
-        "value": "{Green.Salem.C05}",
-        "type": "color",
-        "description": "Testing figma upload to Github"
-      }
-    },
-    "Background": {
-      "Button": {
-        "Primary": {
-          "Idle": {
-            "value": "{Brand.primary}",
+    "background": {
+      "button": {
+        "primary": {
+          "idle": {
+            "category": "color",
+            "exportKey": "color",
+            "value": "rgba(17, 193, 105, 1)",
             "type": "color"
           }
         }
       }
     },
-    "Test-color": {
-      "value": "#e5a4a4",
-      "type": "color"
+    "brand": {
+      "primary": {
+        "category": "color",
+        "exportKey": "color",
+        "comment": "Testing figma upload to Github",
+        "value": "rgba(17, 193, 105, 1)",
+        "type": "color"
+      }
+    }
+  },
+  "font": {
+    "body": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 16,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Inter",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 500,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Medium",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": -0.5,
+        "type": "number",
+        "unit": "percent"
+      },
+      "lineHeight": {
+        "value": 24,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 8,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
     },
-    "Test-token-red": {
-      "value": "#600000",
-      "type": "color"
+    "subhead 1": {
+      "category": "font",
+      "exportKey": "font",
+      "fontSize": {
+        "value": 22,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textDecoration": {
+        "value": "none",
+        "type": "string"
+      },
+      "fontFamily": {
+        "value": "Inter",
+        "type": "string"
+      },
+      "fontWeight": {
+        "value": 500,
+        "type": "number"
+      },
+      "fontStyle": {
+        "value": "normal",
+        "type": "string"
+      },
+      "fontStretch": {
+        "value": "normal",
+        "type": "string"
+      },
+      "_fontStyleOld": {
+        "value": "Medium",
+        "type": "string"
+      },
+      "letterSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixels"
+      },
+      "lineHeight": {
+        "value": 32,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphIndent": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "paragraphSpacing": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "textCase": {
+        "value": "none",
+        "type": "string"
+      }
     }
   }
 }
